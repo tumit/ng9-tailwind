@@ -1,0 +1,10 @@
+package.json
+dist
+
+*.json
+*.conf.js
+
+src/main.ts
+src/test.ts
+src/polyfills.ts
+src/index.html
